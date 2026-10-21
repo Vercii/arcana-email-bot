@@ -16,7 +16,7 @@ A demonstration of the workflow will be available here.
 
 The following section will showcase the n8n automation workflow, including voice processing, AI-generated drafts, validation, Firestore persistence, and Telegram approval handling.
 
-![Voice-to-Email AI Assistant n8n Workflow](assets/workflow.png)
+![Voice-to-Email AI Assistant n8n Workflow](assets/workflo.png)
 
 <!-- Place your workflow screenshot at screenshots/n8n-workflow.png, or update the path to match your repository. -->
 

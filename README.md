@@ -4,11 +4,11 @@ An AI-powered email automation workflow built with **n8n, Telegram, Google Gemin
 
 > **Project Status:** In Progress — Voice processing, AI drafting, validation, Telegram approval callbacks, and Firestore status updates are implemented. The email-sending path is connected and undergoing further testing and refinement.
 
-## Demonstration
+## Demonstration (On Progress)
 
-A demonstration of the workflow will be available here.
+A demonstration of the workflow will be available here soon.
 
-**Demo Video:** [Watch the demonstration](#)
+**Demo Video:** [Watch the demonstration](#) 
 
 <!-- Replace the link above with a GitHub-hosted video, YouTube link, or other accessible demo URL. -->
 

@@ -6,11 +6,7 @@ An AI-powered email automation workflow built with **n8n, Telegram, Google Gemin
 
 ## Demonstration (On Progress)
 
-A demonstration of the workflow will be available here soon.
-
-**Demo Video:** [Watch the demonstration](#) 
-
-<!-- Replace the link above with a GitHub-hosted video, YouTube link, or other accessible demo URL. -->
+https://github.com/user-attachments/assets/902528e7-aad2-42ce-be42-0bcc9008b768
 
 ## Workflow Screenshot
 

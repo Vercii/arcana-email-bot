@@ -2,9 +2,7 @@
 
 An AI-powered email automation workflow built with **n8n, Telegram, Google Gemini, Python, and Google Cloud Firestore**. The system transforms voice messages into structured email drafts, validates the generated content, and allows users to approve or cancel requests through Telegram before sending.
 
-> **Project Status:** In Progress — Voice processing, AI drafting, validation, Telegram approval callbacks, and Firestore status updates are implemented. The email-sending path is connected and undergoing further testing and refinement.
-
-## Demonstration (On Progress)
+## Demonstration
 
 ### Chat Feature Demonstration
 https://github.com/user-attachments/assets/902528e7-aad2-42ce-be42-0bcc9008b768
